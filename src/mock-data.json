@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "fullName": "John Doe",
+        "emailAddress": "johndoe123@gmail.com",
+        "phoneNumber": "0538731972",
+        "employeePosition": "Secretary",
+        "idNumber": "1203654892016"
+    },
+        
+    {
+        "id": 2,
+        "fullName": "Jane Doe",
+        "emailAddress": "janedoe234@gmail.com",
+        "phoneNumber": "0538526914",
+        "employeePosition": "Admin Clerk",
+        "idNumber": "7893562105472"
+    },
+
+    {
+        "id": 3,
+        "fullName": "Lizzy McAlpine",
+        "emailAddress": "lizmcalpine345@gmail.com",
+        "phoneNumber": "0843709469",
+        "employeePosition": "Finance Clerk",
+        "idNumber": "1582369420578"
+    },
+
+    {
+        "id": 4,
+        "fullName": "Katelyn Lapid",
+        "emailAddress": "lynlapid456@gmail.com",
+        "phoneNumber": "0674207747",
+        "employeePosition": "Secretary",
+        "idNumber": "4589620318762"
+    },
+
+    {
+        "id": 5,
+        "fullName": "Sade Adu",
+        "emailAddress": "sade567@gmail.com",
+        "phoneNumber": "0843627945",
+        "employeePosition": "Finance Clerk",
+        "idNumber": "7859362015485"
+    }
+]
